@@ -4,7 +4,7 @@
 import numpy as np
 import scipy.linalg as la
 from sklearn.cluster import KMeans
-from numpy.linalg import eig
+from numpy.linalg as npl
 np.set_printoptions(suppress=True)
 
 A = np.array( [ [0, 1, 1, 0, 0, 0, 0, 0, 0]
@@ -18,20 +18,20 @@ A = np.array( [ [0, 1, 1, 0, 0, 0, 0, 0, 0]
               , [0, 0, 0, 0, 0, 0, 0, 1, 0]
               ])
 
-def printMatrix(M, name):
-  print(name + ":")
-  [print(row) for row in M]
-  print()
 
+def mkLaplacian(A):
+  D = [sum(row) for row in A] * np.eye(A.shape[0])
+  return D - A
 
-eigenStuff = eig(A)
-#printMatrix(eigenStuff, "EigenValues and EigenVectors")
+def mkEigenDecom(L):
+  return npl.eig(L)
 
-secondSmallestEigenVector = eigenStuff[1][1]
-print(secondSmallestEigenVector)
+# We need second smallest because of math
+def getSecondSmallestEigenVector(eigenDecom):
+  eigenDecom[1][:,5] # Find correct one
 
-kmeans = KMeans(n_clusters=2, init=secondSmallestEigenVector)
-#kmeans.cluster_centers_
+def getClusterAmount(matrix):
+  return 2 # dynamic
 
-
-print(kmeans)
+def getClusters(amount, eigenVector):
+  return KMeans(n_clusters=amount).fit(eigenVector.reshape(-1, 1)).labels_
