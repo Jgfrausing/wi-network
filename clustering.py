@@ -1,7 +1,6 @@
 # To get the packages: pip3 install -r requirements.txt
 
 import numpy as np
-import scipy.linalg as la
 from sklearn.cluster import KMeans
 import numpy.linalg as npl
 import fileLoad
@@ -52,10 +51,13 @@ def getSecondSmallestEigenVector(eigenDecom):
   return eigenDecom[1][:,secondSmallIndex]
 
 def getClusterAmount(matrix):
-  return 2 # dynamic
+  return 5 # dynamic
 
 def getClusters(amount, eigenVector):
-  return KMeans(n_clusters=amount).fit(eigenVector.reshape(-1, 1)).labels_
+  kmeans = KMeans(n_clusters=amount)
+  transposed = eigenVector.reshape(-1,1)
+
+  return kmeans.fit(transposed.real).labels_
 
 print("Loading network...")
 A, _ = fileLoad.getSparseFriendsDefault()
@@ -72,7 +74,6 @@ print("Done")
 print("\"Computing\" cluster amounts...")
 clustAmount = getClusterAmount(sSEV)
 print("Done")
-print(sSEV)
 print("Getting clusters...")
 clusters = getClusters(clustAmount, sSEV)
 
