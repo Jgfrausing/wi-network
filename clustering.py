@@ -1,4 +1,3 @@
-
 # To get the packages: pip3 install -r requirements.txt
 
 import numpy as np
@@ -17,7 +16,6 @@ A = np.array( [ [0, 1, 1, 0, 0, 0, 0, 0, 0]
               , [0, 0, 0, 0, 0, 1, 1, 0, 1]
               , [0, 0, 0, 0, 0, 0, 0, 1, 0]
               ])
-
 
 def mkLaplacian(A):
   D = [sum(row) for row in A] * np.eye(A.shape[0])
