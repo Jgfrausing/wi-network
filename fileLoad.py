@@ -2,7 +2,7 @@ import numpy as np
 from scipy import sparse
 
 def getSparseFriendsDefault():
-    getSparseFriends("material/friendships.txt")
+    return getSparseFriends("material/friendships.txt")
 
 def getSparseFriends(file):
     file = open(file, "r")
@@ -33,9 +33,7 @@ def getSparseFriends(file):
         for friend in value:
             matrix[userId[key], userId[friend]] = 1
 
-    matrix = sparse.csr_matrix(matrix)
+    #matrix = sparse.csr_matrix(matrix)
     userId = {v: k for k, v in userId.items()}
 
     return matrix, userId
-
-getSparseFriendsDefault()
