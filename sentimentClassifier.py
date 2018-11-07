@@ -1,6 +1,7 @@
 import re
 import numpy as np
 import io
+import fileLoad
 
 words = ['like', 'hate', 'smells', 'not', 'I', 'this', 'product', 'do', 'it', 'because'] 
 
@@ -66,7 +67,8 @@ def createIndexes(lst):
   for x in range(0, len(lst)):
     index[lst[x]] = x
   return index
-  
+
+
 def word_probabilities(naive_class_probablity, distinct_words, word_class_matrix, test_review, classIndex, wordIndex):
   naive_class_probablity = probability_per_class(classes, reviews)
   distinct_words = distinct_words_per_class(classes, reviews)
@@ -81,28 +83,3 @@ def word_probabilities(naive_class_probablity, distinct_words, word_class_matrix
       word_chance_for_class = word_class_matrix[wi][ci] / distinct_words[c]
       p_per_class[ci] *= word_chance_for_class
   return p_per_class
-
-
-def getReviewsAndClasses(filepath : str):
-    arr = []
-    with open(filepath) as file_handler:
-        count = 0
-        score = 0
-        review = ""
-        for line in file_handler:
-            if line.startswith("review/score:"):
-                score = float(line.strip("review/score: "))
-                #print(score)
-
-            if line.startswith("review/summary"):
-                review = line.strip("review/summary: ").rstrip("\n") + " . "
-
-            if line.startswith("review/text"):
-                review += line.strip("review/text: ").rstrip("\n")
-
-            if line == "\n":
-                arr.append([])
-                arr[count].append((review, score))
-                count += 1
-                review = ""
-    return arr
