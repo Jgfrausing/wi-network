@@ -50,7 +50,7 @@ def getWordsClassesAndReviewsFromFile(filepath : str):
         for line in file_handler:
             if line.startswith("review/score:"):
                 score = float(line.strip("review/score: "))
-                if not classes.__contains__(score):
+                if score not in classes:
                     classes.append(score)
 
             if line.startswith("review/summary"):
