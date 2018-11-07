@@ -1,5 +1,6 @@
 import re
 import numpy as np
+import io
 
 words = ['like', 'hate', 'smells', 'not', 'I', 'this', 'product', 'do', 'it', 'because'] 
 
@@ -38,10 +39,13 @@ def distinct_words_per_class(classes, reviews):
   # this has been thoroughly tested. Trust me, I'm an engineer
   count = {}
   for c in classes:
-    relevant_reviews = [tup[0] for tup in reviews if tup[1] == c]
-    nested_words = [review.split() for review in relevant_reviews]
-    distinct_word_count = len(set([item for sublist in nested_words for item in sublist]))
-    count[c] = distinct_word_count
+    for w in words:
+      for tup in reviews:
+        count = sum([x == w for x in tup[0].split()])
+        relevant_reviews = [tup[0] for tup in reviews if tup[1] == c]
+        nested_words = [review.split() for review in relevant_reviews]
+        distinct_word_count = len(set([item for sublist in nested_words for item in sublist]))
+        count[c] = distinct_word_count
   return count
 
 def word_count_per_class(classes, review, words, classIndex, wordIndex):
@@ -79,4 +83,26 @@ def word_probabilities(naive_class_probablity, distinct_words, word_class_matrix
   return p_per_class
 
 
-  
+def getReviewsAndClasses(filepath : str):
+    arr = []
+    with open(filepath) as file_handler:
+        count = 0
+        score = 0
+        review = ""
+        for line in file_handler:
+            if line.startswith("review/score:"):
+                score = float(line.strip("review/score: "))
+                #print(score)
+
+            if line.startswith("review/summary"):
+                review = line.strip("review/summary: ").rstrip("\n") + " . "
+
+            if line.startswith("review/text"):
+                review += line.strip("review/text: ").rstrip("\n")
+
+            if line == "\n":
+                arr.append([])
+                arr[count].append((review, score))
+                count += 1
+                review = ""
+    return arr
