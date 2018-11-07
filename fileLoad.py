@@ -37,3 +37,32 @@ def getSparseFriends(file):
     userId = {v: k for k, v in userId.items()}
 
     return matrix, userId
+
+
+def getWordsClassesAndReviewsFromFile(filepath : str):
+    reviews = []
+    words = set()
+    classes = []
+
+    with open(filepath) as file_handler:
+        score = 0
+        review = ""
+        for line in file_handler:
+            if line.startswith("review/score:"):
+                score = float(line.strip("review/score: "))
+                if not classes.__contains__(score):
+                    classes.append(score)
+
+            if line.startswith("review/summary"):
+                review = line.strip("review/summary: ").rstrip("\n") + " . "
+
+            if line.startswith("review/text"):
+                review += line.strip("review/text: ").rstrip("\n")
+
+            if line == "\n":
+                reviews.append((review, score))
+                for word in (review.split()):
+                    if word not in words:
+                        words.add(word)
+                review = ""
+    return words, classes, reviews
