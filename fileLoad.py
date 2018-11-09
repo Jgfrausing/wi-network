@@ -66,3 +66,60 @@ def getWordsClassesAndReviewsFromFile(filepath : str):
                         words.add(word)
                 review = ""
     return words, classes, reviews
+
+
+def save_matrix(matrix, filename):
+    mat_file = '' #.join([f"{x};" for x in [row for row in word_class_matrix]])
+    for row in matrix:
+        for elm in row:
+            mat_file += f"{int(elm)};"
+        mat_file += "\n"
+    save_file(mat_file, filename)
+    pass
+
+
+def save_dict(dic, filename):
+    ind_file = ''.join([f"{x};{dic[x]};\n" for x in dic])
+    save_file(ind_file, filename)
+    pass
+
+
+def read_matrix(filename):
+    mat_file = read_file(filename)
+
+    rows = mat_file.split("\n")
+    row_count = len(rows)-1
+    col_count = len(rows[0].split(";"))-1
+
+    matrix = np.zeros(shape=(row_count, col_count))
+
+    for row in range(0, row_count):
+        cols = rows[row].split(";")
+        for col in range(0, col_count):
+            matrix[row][col] = float(cols[col])
+
+    return matrix
+     
+def read_dict(filename):
+    dict_file = read_file(filename)
+
+    rows = dict_file.split("\n")
+    row_count = len(rows)-1
+    col_count = len(rows[0].split(";"))-1
+
+    dic = {}
+
+    for row in range(0, row_count):
+        cols = rows[row].split(";")
+        dic[cols[0]] = cols[1]
+
+    return dic
+
+def read_file(filename):
+    file = open(f"material/{filename}.csv","r") 
+    return file.read() 
+
+def save_file(str, filename):
+    file = open(f"material/{filename}.csv","w") 
+    file.write(str) 
+
