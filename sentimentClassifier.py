@@ -83,6 +83,7 @@ def word_count_per_class(classes, reviews, words, classIndex, wordIndex):
         
 def createIndexes(lst):
   index = {}
+  lst = list(lst)
   for x in range(0, len(lst)):
     index[lst[x]] = x
   return index
@@ -99,7 +100,7 @@ def word_probabilities(naive_class_probablity, distinct_words, word_class_matrix
       ci = int(classIndex[c])
       word_chance_for_class = (int(word_class_matrix[wi][ci]) + 1) / (int(distinct_words[c]) + word_counts)
       p_per_class[ci] *= word_chance_for_class
-  return convert_to_percentage(p_per_class)
+  return convert_to_percentage(p_per_class * naive_class_probablity)
 
 def convert_to_percentage(vector):
   v_sum = sum(vector)
