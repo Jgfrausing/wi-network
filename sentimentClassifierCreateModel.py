@@ -30,8 +30,8 @@ reviews = [ ("I like this product", True)
 
 words = words + [sc.negate_word(x) for x in words]
 
-#words, classes, reviews = fileLoad.getWordsClassesAndReviewsFromFile("material/SentimentTrainingData.txt")
-#words.union(set([negate_word(x) for x in words]))
+words, classes, reviews = fl.getWordsClassesAndReviewsFromFile("material/SentimentTrainingData.txt")
+words.union(set([sc.negate_word(x) for x in words]))
 
 reviews_ = sc.fix_review(reviews)
 
