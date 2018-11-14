@@ -1,5 +1,8 @@
 import numpy as np
 from scipy import sparse
+import json
+import pandas as pd
+
 
 def getSparseFriendsDefault():
     return getSparseFriends("material/friendships.txt")
@@ -122,4 +125,10 @@ def read_file(filename):
 def save_file(str, filename):
     file = open(f"material/{filename}.csv","w") 
     file.write(str) 
+
+
+def read_json(file):
+    with open(file) as data:
+        for l in data:
+            yield eval(l)
 
