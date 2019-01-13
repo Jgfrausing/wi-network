@@ -76,6 +76,11 @@ clustAmount = getClusterAmount(sSEV)
 print("Done")
 print("Getting clusters...")
 clusters = getClusters(clustAmount, sSEV)
-
 print(clusters)
 
+print("Writing clusters to file: 'material/clusteringResults.txt'...")
+with open('material/clusteringResults.txt', 'w') as f:
+  for item in clusters:
+    f.write("%s\n" % item)
+
+print("Done")
