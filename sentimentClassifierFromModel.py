@@ -1,12 +1,16 @@
 import fileLoad
 import sentimentClassifier as sc
 
-word_class_matrix      = fileLoad.read_matrix("small_matrix")
-naive_class_probablity = fileLoad.read_dict("naive_class_probability")
-word_index             = fileLoad.read_dict("word_index")
-distinct_words         = fileLoad.read_dict("distinct_words")
-class_index            = fileLoad.read_dict("class_index")
+word_class_matrix      = fileLoad.read_matrix("s_small_matrix")
+naive_class_probablity = fileLoad.read_dict("s_naive_class_probability")
+word_index             = fileLoad.read_dict("s_word_index")
+distinct_words         = fileLoad.read_dict("s_distinct_words")
+class_index            = fileLoad.read_dict("s_class_index")
 
-probability = sc.word_probabilities(naive_class_probablity, distinct_words, word_class_matrix, "I not hate it", class_index, word_index)
-print(list(class_index.keys()))
-print(probability)
+probabilities = sc.word_probabilities(naive_class_probablity, distinct_words, word_class_matrix, "expensive trick questionable stopped", class_index, word_index)
+prob_per_class = zip(class_index.keys(), probabilities)
+
+
+for pair in sorted(prob_per_class, key=lambda x: x[1], reverse=True):
+  print(pair)
+

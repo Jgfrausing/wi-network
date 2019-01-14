@@ -54,12 +54,10 @@ def probability_per_class(classes, reviews):
 
 ## w(c)
 def distinct_words_per_class(classes, reviews, words):
-  # this has been thoroughly tested. Trust me, I'm an engineer
   distinct_count = {}
   for c in classes:
     for w in words:
       for tup in reviews:
-        count = sum([x == w for x in tup[0]])
         relevant_reviews = [tup[0] for tup in reviews if tup[1] == c]
         nested_words = [review for review in relevant_reviews]
         distinct_word_count = len(set([item for sublist in nested_words for item in sublist]))
@@ -69,7 +67,6 @@ def distinct_words_per_class(classes, reviews, words):
 
 ## N(xi, c)
 def word_count_per_class(classes, reviews, words, classIndex, wordIndex):
-  # this has also been thorougly tested. Like really really much.
   result = np.zeros((len(words), len(classes)))
 
   for w in words:
@@ -89,7 +86,7 @@ def createIndexes(lst):
   return index
 
 
-def word_probabilities(naive_class_probablity, distinct_words, word_class_matrix, test_review, classIndex, wordIndex):
+def word_probabilities(naive_class_probabilities, distinct_words, word_class_matrix, test_review, classIndex, wordIndex):
   test_review_ = fix_words(test_review)
   
   p_per_class = np.ones((len(classIndex)))
@@ -100,7 +97,9 @@ def word_probabilities(naive_class_probablity, distinct_words, word_class_matrix
       ci = int(classIndex[c])
       word_chance_for_class = (int(word_class_matrix[wi][ci]) + 1) / (int(distinct_words[c]) + word_counts)
       p_per_class[ci] *= word_chance_for_class
-  return convert_to_percentage(p_per_class * naive_class_probablity)
+
+  naive_class_probabilities_vector = [float(x) for x in naive_class_probabilities.values()]
+  return convert_to_percentage(p_per_class * naive_class_probabilities_vector)
 
 def convert_to_percentage(vector):
   v_sum = sum(vector)

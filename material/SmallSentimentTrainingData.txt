@@ -1,0 +1,998 @@
+product/productId: B000P41A28
+review/userId: A3K3GNZWUYXRUT
+review/profileName: L. Bream
+review/helpfulness: 3/6
+review/score: 5.0
+review/time: 1214697600
+review/summary: If you're worried about consitpation....
+review/text: I purchased this formula but was worried after reading the comments here that my 5 month old baby would suffer from constipation.  He did.  However, I really wanted to use organic formula so I added a few teaspoons of prunes to his cereal and within 12 hours - problem solved.  No constipation since and he has been on this formula for about 2 weeks. I give him some prune/cereal every 4 days.  If your baby is not yet on solids you might consider giving him a little apple or pear juice mixed with water.  This should do the trick also.  Don't let the constipation issue scare you off.
+
+product/productId: B000P41A28
+review/userId: AFAWC4ZJ29YV1
+review/profileName: AG
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1334102400
+review/summary: THIS IS NOT ORGANIC!!! TOXIC hexane still in it!
+review/text: RECONSIDER THIS FORMULA!!<br /><br />Martek advertises this formula on their website!<br /><br />"Although Martek told the board that they would discontinue the use of the controversial neurotoxic solvent n-hexane for DHA/ARA processing, they did not disclose what other synthetic solvents would be substituted. Federal organic standards prohibit the use of all synthetic/petrochemical solvents".<br /><br />Martek Biosciences was able to dodge the ban on hexane-extraction by claiming USDA does not consider omega-3 and omega-6 fats to be "agricultural ingredients." Therefore, they argue, the ban against hexane extraction does not apply. The USDA helped them out by classifying those oils as "necessary vitamins and minerals," which are exempt from the hexane ban. But hexane-extraction is just the tip of the iceberg. Other questionable manufacturing practices and misleading statements by Martek included:<br /><br />Undisclosed synthetic ingredients, prohibited for use in organics (including the sugar alcohol mannitol, modified starch, glucose syrup solids, and "other" undisclosed ingredients)<br />Microencapsulation of the powder and nanotechnology, which are prohibited under organic laws<br />Use of volatile synthetic solvents, besides hexane (such as isopropyl alcohol)<br />Recombinant DNA techniques and other forms of genetic modification of organisms; mutagenesis; use of GMO corn as a fermentation medium<br />Heavily processed ingredients that are far from "natural"<br /><br />quote from: Why is this Organic Food Stuffed With Toxic Solvents? by Dr. Mercola - GOOGLE GMOs found in Martek.<br /><br />This is the latest I have found on DHA in organic and non organic baby food/ formula:<br />AT LEAST READ THIS ONE*** GOOGLE- False Claims That DHA in Organic and Non-Organic Infant Formula Is Safe. AND OrganicconsumersDOTorg<br /><br />Martek's patents for Life'sDHA states: "includes mutant organisms" and "recombinant organisms", (a.k.a. GMOs!) The patents explain that the oil is "extracted readily with an effective amount of solvent ... a preferred solvent is hexane."<br /><br />The patent for Life'sARA states: "genetically-engineering microorganisms to produce increased amounts of arachidonic acid" and "extraction with solvents such as ... hexane." Martek has many other patents for DHA and ARA. All of them include GMOs. GMOs and volatile synthetic solvents like hexane aren't allowed in USDA Organic products and ingredients.<br /><br />Tragically, Martek's Life'sDHA is already in hundreds of products, many of them certified USDA Organic. Please demand that the National Organic Standards Board reject Martek's petition, and that the USDA National Organic Program inform the company that the illegal 2006 approval is rescinded and that their GMO, hexane-extracted Life'sDHA and Life'sARA are no longer allowed in organic products.<br /><br />BUT I went to the lifesdha website and THEY DO NOT DISCLOSE HOW THEY MAKE THEIR LifesDHA!!! I have contacted the company to see what they say.<br /><br />Also these are the corporate practices of Martek which are damaging to the environment as well written just last Dec 2011 at NaturalnewsDOTcom<br /><br />The best bet is to just avoid the lifeDHA at this time in my opinion b/c corporate america cares more about the almighty $ than your health.
+
+product/productId: B000P41A28
+review/userId: AVUV2TE9UKTPU
+review/profileName: asianprincess
+review/helpfulness: 4/10
+review/score: 1.0
+review/time: 1285545600
+review/summary: shipping time is unreasonably long
+review/text: i ordered this on 8/29/10, and it didn't ship out until three and a half weeks later. it's 10/12/10 and i still haven't received it yet. next time, i plan to order from a merchant who can fulfill it in a reasonable timeframe.<br /><br />as far as the product is concerned, i do like that the similac liquid formula in the 32oz size doesn't contain BPA. i was really upset when i researched and discovered that the single-use ready-made liquid containers and large powdered containers both contain BPA. i would expect more diligence from similac to be BPA-free in all of their packaging.
+
+product/productId: B000P41A28
+review/userId: A2MWGBNJRJN57M
+review/profileName: Organic Mommy
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1282953600
+review/summary: Horribly Constipating
+review/text: My child was exclusively breastfed for 4 1/2 months and I gradually introduced Similac Organic formula to supplement (my breastmilk started to dry up).  She found this was so much easier to eat she gave up on me by 5 1/2 months.  By the time I completely stopped nursing she was so constipated from the formula that I switched.  She winced and cried and worked so long to just produced a hard ball the size of ping pong ball.  It was horrible!  I realized I was the one helping her poo with nursing and then she lost all ability when she went full-formula.  I say switch....
+
+product/productId: B000P41A28
+review/userId: A3A6QXIC8XCOJG
+review/profileName: Vladimir Dyo
+review/helpfulness: 9/20
+review/score: 1.0
+review/time: 1231804800
+review/summary: Constipation!!!!!
+review/text: We breastfeed our month old boy, but since his bilirubin level was still high, doctors recommended to switch to formula for 48 hours. We started with Similac Advance (Shield Plus) which we still had from hospital. First 24 hours were wonderful in terms of pooping, then we decided to switch to Similac Organic for known reasons, but during the first 32-Ounce Bottle I began to notice that his stool was getting harder, and eventually he stopped pooing (actually he produced two stone-ball like poops) and had a hard time for another 24 hours. Breast milk and Similac advance tested similarly sweet, but Similac Organic was much much less sweet. I made a research on the internet and I found the following that may help you to understand the cause of constipation: (http://www.drhull.com/EncyMaster/C/constipation_infant.html)<br /><br />Constipation means infrequent, hard stools. It does not mean grunting or straining, although your baby may certainly exhibit these behaviors when having a bowel movement. So the first question to ask is, "Is my child really constipated?"<br /><br />Next, consider why true constipation - excessively hard, dry stools - arises. The normal function of the colon is to remove water from the stool. Otherwise we would rapidly dehydrate and die. That is why severe diarrhea is dangerous - the stool is moving through the colon and being expelled from the body so fast, there is no time to properly reabsorb the stool water back into the bloodstream.<br /><br />Conversely, if the fecal material remains in the colon too long, the water removal process may extract too much of the fecal water and leave the stool mass excessively dry and hard. It is just that simple.<br /><br />So constipation arises when feces remain in the colon too long because:<br /><br />  * the colon is naturally sluggish (has decreased "motility," we say)<br />  * a low residue diet produces insufficient stimulation to the colon to trigger its normal propulsive activity and clear out the feces<br />  * a combination of the above two factors<br />  * there is obstruction of the lower GI tract<br />  o functional neurologic - the lower rectum and anus cannot properly relax to allow evacuation - Hirschprung disease<br />  o functional anatomic - anal-rectal positioning doesn't allow easy evacuation<br />  o mechanical - a tumor physically blocks stool passage<br /><br />Breast fed babies are essentially never truly constipated. This is because breast milk is such a low residue diet. Almost all of the milk is absorbed by the baby and used. The stools consist of a small amount of unabsorbed protein curds and a large amount of bowel secretions, chiefly mucus. And of course a lot of noisy gas. But these infrequent stools do not indicate constipation - just infrequent stools.<br /><br />Later, when breast feeding infants start solids, they technically can become constipated, but it is unusual in my experience. It is not until the child is pretty much on solids and especially when weaned to whole cow milk that constipation is much of an issue. By then we are really discussing toddlers.<br /><br />Breast fed infants do tend to save up after the first few months and poop less often. This worries some parents. Despite reassurances to the contrary, some folks just have to see a poop every day from their little darling to be happy and fulfilled. Go figure. They forget that stool can stay in the colon for a very, very long time and it will not hurt anything.<br /><br />When the stool hoarding breast feeder does finally get ready to go, another problem comes to the fore: grunting and straining. When the baby's rectum forms in utero, it is in a state of permanent contraction for nigh onto nine months. The baby does not pass the meconium (fetal stool) in utero until perhaps right at the end of gestation right before, during or after delivery. Until the baby is several months old, and has passed and been stretched by quite a few bowel movements, the rectum and particularly the anus may be quite tight and resist easy dilation to allow the stool to pass. Because the baby has weak, flabby abdominal musculature (that is why his little tummy is so poochy), he must push against this tight anal spincter with his diaphragm. Just as Mom pushed during delivery, and with seemingly equal discomfort. Hence the grunting and red-faced straining.<br /><br />  The other major problem of both breast or bottle fed newborns which creates this sort of straining is dyschezia, or uncoordinated stooling.<br /><br />The cure for the problem of a tight anus is pretty simple: a gentle rectal exam with a well-lubricated pinky finger by the doctor (which should be done on all babies with stooling troubles anyway to rule out a physical obstruction) will be both diagnostic and curative. If one such gentle dilation doesn't do the trick, I have Mom bring the baby back in a week and repeat the procedure. The anal spincter is stretched, and pretty soon, no more terrible straining.<br />Top<br /><br />Bottle fed infants are "a whole 'nother story." Infant formulas are not nearly as well digested as breast milk, and leave quite a bit more residue in the colon. (The exception to this rule in my mind is the new Similac� that really does seem to leave the stools about the same consistency as breast milk.) So true constipation in bottle fed infants is much more common; my feeling is that soy formulas are even worse than cow milk based formulas in this regard.<br /><br />The young infant's colon is simply not designed for all the residue and stool bulk. The residue builds up, is dried too much, and becomes hard, pebbly stool. It is naturally difficult and uncomfortable for the baby to pass.<br /><br />The addition of cereal to the diet only compounds whatever problems already exist. Cereal + milk = concrete. Cereal in the formula bottle seems to be especially bad, probably because parents don't realise just how much cereal the baby is getting.<br />Top<br /><br />Treatment of constipation mainly involves common sense diet modifications and sometimes medication:<br /><br />  * Again, as with breast fed babies, a search for the cause of the constipation and gentle rectal exam can work wonders.<br />  * I use a lot of Karo� corn syrup for bottle feeders with constipation. It is my first choice recomendation; it almost always works if used properly. Unfortunately, many doctors and nurses don't use it properly, get poor results, and don't recommend it as often as they should. I start with two measuring teaspoons in every formula bottle, regardless of size, and adjust the dose up or down depending on how things are going. Usually, the baby can be weaned off the Karo pretty soon, but may need to stay on it periodically for the first few months of life. It is very important to put the corn syrup in the formula and not give it in between in water. The excess corn syrup does not get digested very well - the baby is already digesting all the sugar he can from the formula. The excess sugar passes down to the colon and produces a sugar diarrhea similar to sorbitol (as below, prunes, apple juice).<br /><br />  Before scolding me about "the risk of botulism" from corn syrup, please see:<br /><br />  Clinical Pediatric Emergency Medicine, Volume 4,Number 3,September 2003: "Pediatric neurologic potpourri: cases to remember"<br /><br />  "In the past, C. botulinum was also found in corn syrup, but this is no longer a risk factor for infant botulism because of a recent change in the processing formula."<br /><br />  For the complete source of statement, see: Olsen SJ, Swerdlow DL. Risk of infant botulism from corn syrup. In reply. Pediatr Infect Dis J 2000;19:584-5.<br /><br />  * Certain fruits and juices - for example prunes, apple juice, apricots - are rich in sorbitol, a nondigestible sugar that passes through the body to the colon and causes water to be retained or drawn into the stool mass. They can be increased in the diet to loosen the stool and relieve or prevent constipation.<br />  * Lactulose is a non-absorbable sugar product that is processed by colon bacteria to produce an inflow of water into the stool mass. We use it a lot - it seems to be a favorite of our local pediatric gastroenterologists. The dose is adjusted up or down according to respose. Side effects are usually not serious but can include cramping or diarrhea - obviously, stop the medicine and call your doctor if these occur.<br />  * Glycerine suppositories are helpful to relieve your child if there is some hard stool that just won't come out easily. The suppository melts in the heat of the rectum and lubricates the stool. Glycerine also has a mild effect of attracting water into the stool, which softens it. The act of insertion also serves to stimulate the rectum and anus to initiate the defecation reflex. (Glycerine is completely safe - it is a food, found in candy, not a drug.)<br />  * Fiber containing foods are helpful for older children and adults, but are not really of much use in the treatment of young infant constipation, for dietary reasons: babies just don't eat a lot of fiber. (I believe ISoyalac�, which was a high fiber soy formula, has been discontinued. It was never very available any place I practiced, anyway.)<br /><br />Top<br /><br />Myths and misconceptions concerning infant constipation:<br /><br />  * Iron in the formula causes constipation. No way. I can understand lay people thinking this to be the case because when adults take iron preparations (in large doses) they may become constipated. But the tiny amount present in infant formula is not nearly enough to cause any problems.<br /><br />  The irritating thing to me is to hear doctors and nurses who should know better repeating this nonsense and switching the infants to the less healthy low- or no-iron formulas.<br /><br />  * Increasing water in the diet is commonly recommended; it makes very little sense and demonstrates a failure to reflect on the basic physiologic cause of the overdry stool. The problem is too little water retention in the stool, not too little water in the body! Unless there is increased fiber or some chemical substance such as a sugar (Karo�, lactulose) to retain the water in the stool, excess water will simply wind up in the diaper as urine.<br /><br />Top
+
+product/productId: B000P41A28
+review/userId: AFXG53DH7OYN7
+review/profileName: Saucy and Bossy
+review/helpfulness: 1/9
+review/score: 1.0
+review/time: 1291161600
+review/summary: Great product, but price-gouged b/c of shortage
+review/text: This is a great product... my baby loves it. I especially like the smooth liquid formula versus the powder since the powder never seems to dissolve properly.<br /><br />I am, however, rating this low because of the SELLER... $55 is RIDICULOUS! This product normally sells for $25-$32. But they are jacking up the price because there is a shortage of the liquid formula due to the powder recall.<br /><br />YOU SHOULD BE ASHAMED AMAZON!!!! This is food for a BABY! Makes me ill.
+
+product/productId: B000P41A28
+review/userId: A3B0VFV8ULTSA5
+review/profileName: GOORGANIC
+review/helpfulness: 2/30
+review/score: 1.0
+review/time: 1306886400
+review/summary: Garbage!!
+review/text: Do not buy this product.  You will not be doing your infant any favors.  If at all possible, you should be breastfeeding.  (I know it's not always easy or convenient.)  If you can't then in my opinion the best formula is Earth's Best and even that is disappointing.  Basically, they dry cow's milk and remove all the natural nutrients then "fortify" with synthetic vitamins/minerals.  Pathetic.  Just buy whole organic milk, raw if possible.  There are recipes online to make it closer to human breast milk.  Sorry to be so matter of fact.  I'm losing patience for all these evil corporations capitalizing on the "green" movement.  OH and by the way the second ingredient in this garbage is sugar!!! Good way to start the diabetes/obesity while they're young!
+
+product/productId: B007DJ32XI
+review/userId: A1JPHHY7C5RIOZ
+review/profileName: panther13
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1350172800
+review/summary: No thanks
+review/text: I have been searching for a natural lemonade drink mix that would actually taste good.  This is not one of them.  Did not like the the bitter taste of this drink mix. I can make my own fresh squeezed lemonade better than this stuff.  In the mean time I purchase Newmans Own ready made lemonade if I don't have the time to make my own lemonade.
+
+product/productId: B0048HWXA6
+review/userId: A1DANQVK2XS51T
+review/profileName: Shopping Mom of 3
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1309478400
+review/summary: Fun... but gross!
+review/text: These jelly beans are great for a party activity (think Harry Potter) or as a gag gift. There are 5-6 different colors of jelly beans. Each color could be one of two flavors, and you won't know which until you bite into it. One flavor is good, like peach, and the other flavor is disgusting, like vomit. Yes, vomit. Some other gross flavors include pencil shavings, skunk smell, rotten eggs (the worst in my opinion) & toothpaste. GREAT party game for kids, my 10 year old & friends loved it. The only reason I gave it 4 stars instead of 5 is that the bad flavors are so gross that no one wants to eat them and they get spit out. So half of the jelly beans go straight into the trash. But I guess it's the novelty that makes it fun!
+
+product/productId: B0048HWXA6
+review/userId: AHRORJOVVNLVO
+review/profileName: JLK
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1306627200
+review/summary: A Real Winner for the Whole Family!
+review/text: The kids had a solid hour of almost constant laughter and fun, and the grown-ups had fun as well.  This would be great for a group of children.  For each color of jelly bean there is one normal flavor and one weird flavor, and you can't tell which one you've gotten until it's too late.  Some of the weird flavors, like Toothpaste and Pencil Shavings, are simply unusual. Others, such as Centipede, Rotten Egg and Skunk are truly VILE!  The spinner really helped the kids use this as a game, and they loved it and still talk about it.
+
+product/productId: B0048HWXA6
+review/userId: A27I8ETYT41602
+review/profileName: Mr. R. R. HERMAN
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1304640000
+review/summary: Hillarious Reactions!
+review/text: They are what they claim to be.  The sweet flavors are sweet, and the gross flavors are GROSS!!!  My 5 & 7 yr. old boys loved these from the Easter Bunny, but I thought the adults that were adventurous enough to try them had even more fun with them.  You can't tell what you get by sight or smell - not until you bite into them do you know the truth! Highly recommended if you are into this sort of thing!
+
+product/productId: B0048HWXA6
+review/userId: A1MSMQ2NE6CY6X
+review/profileName: Danna Pendergast
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1306886400
+review/summary: Fun Game for the kids
+review/text: My daughter played this game at school and just loved it. She wanted to have it at home to be able to play with her friends and family. Its a really fun game until you have to eat one of the terrible tasting jellybeans !!!
+
+product/productId: B0048HWXA6
+review/userId: A1Q9AH39L6G0V1
+review/profileName: Frank C. Orifici
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327708800
+review/summary: Entertaining at it's most disgusting level!
+review/text: This is the best price that I've found for this entertaining, fun filled, disgusting game.  Each jelly bean of the same colors have two flavors, one as it should be and one that is mostly disgusting.  If you purchase this sadistic game, you should also purchase an additional box of replacement jelly beans, sold separately.
+
+product/productId: B0048HWXA6
+review/userId: A24WJISKUVB76V
+review/profileName: LVMom
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1310774400
+review/summary: Really Cool Game!
+review/text: This was purchased as a game for my thirteen-year-old daughter's Harry Potter themed get-together to celebrate the release of the final movie.  The jelly bean game is loads of hysterical fun, and fit very well with our theme.  :)
+
+product/productId: B0048HWXA6
+review/userId: A1P0GBOBUUECJK
+review/profileName: Cgull
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348444800
+review/summary: BeanBoozled
+review/text: This product arrived very fast and perfectly new.  The kids had so much fun playing the game.  It is a birthday party they will never forget!
+
+product/productId: B0048HWXA6
+review/userId: A29U4102KKI5U9
+review/profileName: aka Shortie
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340841600
+review/summary: Fun game, not enough of each color to really play
+review/text: Got this as a gift for the office.  It's nice to get people to take a break from work to see what they get.  Unfortunately, its not well mixed.  It's almost gone and so far, all the black ones are not the licorice (and that is the good flavor compared to the other one, ick!), same goes to the white ones and the there was only one pair of the blue to be played :(
+
+product/productId: B0048HWXA6
+review/userId: A346YRPUO0OCCL
+review/profileName: Robert Benjamin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338681600
+review/summary: Great fun for everyone
+review/text: I bought a few boxes of these as gifts for my Daughter and her family at Easter time. They were the hit of her household, when family and friends came by, they all enjoyed spinning and trying out the flavor beans they won. Awesome fun!!!
+
+product/productId: B0048HWXA6
+review/userId: ABC4XKCWBF901
+review/profileName: stevo
+review/helpfulness: 0/10
+review/score: 1.0
+review/time: 1332288000
+review/summary: I feel BeanBoozled
+review/text: I got a call from my mother-in-law last night thanking me for her birthday present I ordered here. She thanked me for the surprise and also had to comment how terrible they tasted. She asked me if it was supposed to be a joke on her. I said no and felt bad a 93 year old lady ate some bad jelly beans.<br /><br />Won't buy again,<br /><br />Steve Baker
+
+product/productId: B003BXOAW2
+review/userId: A27KI0N409G8UN
+review/profileName: Mark Elliott Smith "Tahoe Mark"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1341705600
+review/summary: My dogs love these.  Made in China, which worries me.
+review/text: Both dogs love these treats and they have healthy components.  The only reason I gave 4 instead of 5 stars is that these are made in China and that worries me.
+
+product/productId: B007TXUN3A
+review/userId: A1BKX9MC3YAKF8
+review/profileName: L. Torres "titililly"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1340064000
+review/summary: Ok Coconut popcorn
+review/text: Taste is just Ok, a bit greasy compare to 94% fat free micro kettle pop corn bags (purchases here at better cost.) Coconut flavor is like coconut flakes flavoring.<br />Not a good value since you get 18 bags for $30. Purchased it because I wondered about it since I love Coconut.<br />Won't buy again because of the greasy feeling and high cost.
+
+product/productId: B0029K5536
+review/userId: A3TMMILDR7JUVS
+review/profileName: C. Murphree "jazrobean"
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1322179200
+review/summary: best of Folger's
+review/text: I've tried several of the different FLAVORS of Folger's - this is the best - the old stand-by!  It makes a good cup of coffee every time.
+
+product/productId: B0029K5536
+review/userId: AO09RWV40IX78
+review/profileName: M. Hyatt "AMAZON BUYER"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1343001600
+review/summary: THE OLD STAND BY !
+review/text: I found this is one of the easiest ways to shop for coffee. The Subsribe and Save program saves you money and you never wake up to an empty can. FOLGERS Coffee Ground Classic Roast, 33.9-Ounce Packages (Pack of 2), is priced well and I prefer the CLASSIC ROAST better than the fancy coffee house brands. As another reviewer stated it " as the old stand buy."<br /><br />I love to shop online. It is often cheaper and without hassle. I could drive to Wallet World, park and fight the crowds, hopefully find my specific brand, stand in line and wait for the person ahead to clip their coupons, have their CC declined, write a check, etc. OR I could login to Amazon and click one button, then wait two days for my no sales tax, free delivered product. Please don't get me wrong, I like to shop at the big box stores, when I have time, but usually I shop online.<br />Trip to grocery store, $10 , two canisters of coffee $16, plus tax and hassle. Have is delivered free without tax for $18. Without the hassle.<br /><br />PRICE: C<br />CONVIENCE: A+++<br />TASTE: A
+
+product/productId: B0029K5536
+review/userId: A28ETU4J2PG09N
+review/profileName: Judee Anthony
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344556800
+review/summary: Great Coffee
+review/text: Folgers is good coffee, we order it regularly. Prefer the mild-medium flavors. Coffee is always fresh tasting, good to the last cup! Even after setting for a time it does not taste bitter. Get many cups of coffee from this size.
+
+product/productId: B0029K5536
+review/userId: A3M5PXJAZEEPYY
+review/profileName: wowo
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1342915200
+review/summary: Coffee review
+review/text: I think Folgers is an excellent coffee choice. I have been drinking it ever since I have been drinking coffee, about 30 years. It is good at the beginning of the pot and just as good at the end of the pot.
+
+product/productId: B0029K5536
+review/userId: A1F5004VYZ3AXH
+review/profileName: L. Ellis "lellis"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340236800
+review/summary: good coffee
+review/text: I use this coffee with my toddy cold press system and it makes a very smooth cup of coffee. I so far have only used Folgers coffee with the system and see no reason to change as the end result is so very good.
+
+product/productId: B00478L8FC
+review/userId: AHDTF0PGLWNH6
+review/profileName: Jami L. King "motherofangels"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302048000
+review/summary: Wonderful!!!
+review/text: I sent this to some friends who helped me out when I had surgery. It came and was beautiful. All of the items were really good and shipping was fast. VERY PLEASED!!!
+
+product/productId: B0026HHXLY
+review/userId: A1JX3BMYLZ9P3U
+review/profileName: HannahJaye
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302220800
+review/summary: Easy
+review/text: This ediable image is easy for anyone to use. My man is into bass fishing so this was the perfect cake decor. He LOVED it!
+
+product/productId: B002FJTZZU
+review/userId: ANB8BGTHET34G
+review/profileName: SFinlay "Sfinlay"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1250380800
+review/summary: Excellent!
+review/text: Excellent product. This is the first time my seven year old has had an ice cream cone in three years. When I brought them home, I thought she was going to jump out of her skin! After she had her cone, she asked for more and even upon receiving a "no," she still had the biggest smile on her face.
+
+product/productId: B002FJTZZU
+review/userId: A2A6JD1FM62PU1
+review/profileName: fishhooksandbobbers "fishhooksandbobbers"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1283472000
+review/summary: Don't buy if you're allergic to chocolate
+review/text: Be careful if you have a chocolate allergy.  The last box I purchased has cocoa powder as the ingredient and the cones are brown.  I know previous boxes did not contain cocoa powder and were a normal cone color.  The distributor should market these as chocolate cones and not try to pass them off as something else.  Note:  Be especially leary since this seller doesn't list ingredients.
+
+product/productId: B001F2ATYY
+review/userId: A1NHBHQR4T2CDW
+review/profileName: Momma of B
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308441600
+review/summary: Works great
+review/text: We have two large dogs whose urine yellows our lawn.  We give them the recommended dosage with their dinner and it has significantly stopped the yellowing of the grass.  Good call.<br /><br />Bottom line- buy it.
+
+product/productId: B001CGTN1S
+review/userId: A1ZWM7T7R6MO02
+review/profileName: JoshuaRM
+review/helpfulness: 12/13
+review/score: 5.0
+review/time: 1298592000
+review/summary: #1 superfood
+review/text: Nutritional benefits of Chia seeds are amazing. Here are a few to start:<br /><br />*According to studies, Chia possesses the highest percentage of the polyunsaturated fatty acids(linolenic and linoleic) of all crops. Chia seeds contain 60% omega 3 fatty acids.<br /><br />*The protein content of Chia is higher that other nutritional grains. Unlike other grains, it is a complete protein, meaning that it has the appropriate balance of all essential amino acids. About 19 to 23% of chia seeds weight is protein.<br /><br />*Chia seeds are high in fiber, a 15 gm serving of chia seeds will provide 4 to 5 gm of fiber. Our body requires at least 35 gm of fiber a day to stay healthy.<br /><br />*Chia seeds contain boron which is essential for bone health.<br /><br />*Chia seeds are rich in calcium, about 2 oz of chia seeds contains 600 mg of Calcium, as compared to 120 mg for a cup of milk.<br /><br />*Chia seeds have 2 times more potassium than banana.<br /><br />*Chia seeds have 3 times more antioxidants than blueberries<br /><br />Regardless of the astonishing nutritional values of Chia, it also tastes very good. My girlfriend and I make a big pot of "steel cut" oatmeal at night (the quick way is throw a cup of oats in 4 cups of boiling water and just let it sit overnight), put in a good helping of chia powder, and the next morning you have a wonderful breakfast that could last all week depending on how many people are eating it. Feel free to add a little cinnamon, peanut butter, fruit, or your own oatmeal favorite additions.<br /><br />There are many other recipes for eating Chia, but oatmeal is my personal favorite.  I started eating Chia last year after reading the NY Times Bestseller 'Born to Run' about how a tribe of Mexicans that eat Chia will drink beer, smoke tobacco, and then run up to 500 miles in a footrace the following days.  One of the primary contributors to the tribal Mexicans' seemingly supernatural physical ability is that their diet is full of the nutrient-rich Chia seeds. I haven't put in 500 miles.  But after previously failing to finish a 26-mile marathon without chia in my diet, I added chia to my diet and my knees allowed me to finish my first 26-mile marathon!  Could the Chia have helped?  I think so.  I certainly had more energy and my joints felt better my second attempt at a marathon when "on" the Chia.<br /><br />I started out paying an arm-and-a-leg at Whole Foods for Chia powder, but have since started buying them on Amazon for a fraction of the price. My suggestion is to get some Chia and make a delicious bowl of oatmeal for one of the healthiest breakfasts possible.
+
+product/productId: B001CGTN1S
+review/userId: A33K45IE4XIWH6
+review/profileName: Camperkat "Camperkat"
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1321228800
+review/summary: This Stuff Tastes Pretty Good
+review/text: Although I eat a ton of fruits/veg, I have to admit I was looking for a "quickie" fiber boost, and I wanted to avoid psyllium because of the phytic acid properties that block absorption of certain medications and supplements (I take many of the latter).<br /><br />Sprouting reduces phytic acid, and is recommended by many in the nutrition communities for "safely" preparing oatmeal, barley, etc.<br /><br />So I got the sprouted Navitas brand chia powder shown here, but at Whole Foods.  I have to say...this stuff is terrific.  I put 3 TBs (1 serving) in about 1/4 cup of warm filtered water, and stirred it, and watched as it kind of puffed up...tasted it...and you know what?  It kind of tasted like oatmeal or barley.  I intended to add this slurry into my green smoothie, but I liked the way it tasted so much, I just ate it with a spoon.<br /><br />My recommendation is to add a little warm water to the powder, and stir it up before mixing it into whatever you are eating--or just eat it straight as I did.<br /><br />I'm going to buy this brand in bulk at Amazon--and I'll make sure it is the sprouted powder and not the seeds.<br /><br />By the way, I read on a review posted about the Navitas chia SEEDS that they make a kind of "tapioca" by adding coconut or almond milk and stevia to the chia seeds...so I tried doing that with the powder...it created a kind of soft, puffy pudding texture, and it was definitely in the "treat" category.
+
+product/productId: B001CGTN1S
+review/userId: A2LPAQPXOSKXGF
+review/profileName: Jim Wittebols
+review/helpfulness: 9/10
+review/score: 5.0
+review/time: 1284249600
+review/summary: Chia--great for cholesteroal
+review/text: I have had persistently high cholesterol for years.  Allergic to statins, zetia made me sick--nothing pharma came up with worked for me (I am a workout fiend and half vegetarian).  My total cholesterol was always 220 or higher.  After one month of chia powder, it was at 187.  Nearly miraculous!
+
+product/productId: B001CGTN1S
+review/userId: A1BIPJK03QKFQA
+review/profileName: QueenOPearls "QueenOPearls"
+review/helpfulness: 5/7
+review/score: 2.0
+review/time: 1292716800
+review/summary: not what is in the bag
+review/text: I ordered and got seeds.  Called, got a refund and reordered... got seeds.  I'll have to order the sprouted chia seed powder elsewhere. :)
+
+product/productId: B001CGTN1S
+review/userId: A331T1MEPUCBYV
+review/profileName: Suzanna Davis "suzanna"
+review/helpfulness: 0/2
+review/score: 3.0
+review/time: 1315612800
+review/summary: tasted yuk
+review/text: Gave it to my daughter who uses it in recipes but I wanted to use it in smoothies.  It tasted to bad to me.
+
+product/productId: B001CGTN1S
+review/userId: A3G4B602EO1XYX
+review/profileName: Peter Buck
+review/helpfulness: 2/10
+review/score: 2.0
+review/time: 1286150400
+review/summary: tough to take
+review/text: Ugh, this stuff may be good for me but it's not appealing.  I mixed it in my oatmeal for a while, and it was fine that way (but sticky).  But I didn't notice any obvious effect and I've slacked off.
+
+product/productId: B000F4D4HW
+review/userId: ABGH6P1RC1UDS
+review/profileName: Shady
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1167091200
+review/summary: Good miso!
+review/text: This is a good miso base. I make true miso soup, by adding nori seaweed, cutup scallions, tofu, etc. I almost didn't buy it, based on the poor review on a similar product, but I'm glad I did. It's tasty!
+
+product/productId: B000F4D4HW
+review/userId: A1Y1ODQM9H4EYC
+review/profileName: Marilynn M. Slade "Marilynn"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1168300800
+review/summary: Good Product
+review/text: This is a very good value.  I use it to put in many Asian recipes instead of chicken or vegetable broth.  The result is a more authentic Asian taste to my recipes.
+
+product/productId: B000F4D4HW
+review/userId: A14RPV7RGRE9NN
+review/profileName: S. Kaymen
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1284681600
+review/summary: Quick & Easy
+review/text: I love this product, very convient serving packages and only needs some ginger and cayenne for healthful benefits. Miso & ginger helps with clogged arteries & good general tonic, Besides being a very yummy cup a soup.
+
+product/productId: B000F4D4HW
+review/userId: ABDBEFQZ9WWOG
+review/profileName: neptunepaese
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337126400
+review/summary: Healthy Flavoring Alternative
+review/text: We love Miso Cup soup!  We use it to flavor our ramen. It is much healthier and tastier than the usual salt and MSG! The price on Amazon is great too! Less than half the price we were paying in a local health food store.  Thanks Amazon!
+
+product/productId: B000F4D4HW
+review/userId: A1FP5ZLSKR07SU
+review/profileName: G. Burnick
+review/helpfulness: 1/2
+review/score: 1.0
+review/time: 1184112000
+review/summary: Don't Buy -- Dreadful!
+review/text: I like Japanese soups and just love the similar products from San-J (also available from Amazon -- get those, they're 5-star!).<br /><br />This Miso-cup brand is terrible. I can't tell you more than this is just yicky. I wish there was a zero-star rating!<br /><br />I didn't finish the first cup even (but I'd already tried and re-tried another Miso-cup flavor and hated it). Therefore, I only used one envelope before giving away the rest. Oh, why did I stray from San-J? Actually, I thought it might be worth trying Miso-cup's different flavors to add variety to my afternoon broth experience. It was this flavor, in particular, that I was most interested in trying for variety. But now I know that ALL the Miso-cup brand are equally dreadful!!!<br /><br />I gave these and the other Miso-cup boxes to a Food Pantry BUT I told them first why to warn others it might not suit them. Get the San-J brand!!!
+
+product/productId: B000F4D4HW
+review/userId: A3V6O5J55QTYSC
+review/profileName: M. Davis "Marika"
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1172448000
+review/summary: bad soup
+review/text: I did not enjoy this soup; I will try a different brand next time.
+
+product/productId: B0007ZLRUU
+review/userId: A1UR1B8MLEX5LF
+review/profileName: Tina Goeckel
+review/helpfulness: 18/20
+review/score: 5.0
+review/time: 1128211200
+review/summary: Jablum coffee beans
+review/text: This coffee is smooth and is not bitter at all. It is wonderfully aromatic and a rich flavor. I personally bought the beans in Jamaica but it was only $12 for 12 ounces, I have seen such inflated prices on the internet for this product and truly it is not worth it.
+
+product/productId: B0007ZLRUU
+review/userId: A1IFOESRHYQ4AH
+review/profileName: A. Bradley-Verett "Amanda Verett"
+review/helpfulness: 5/5
+review/score: 5.0
+review/time: 1168214400
+review/summary: The best coffee ever
+review/text: There is a reason they serve this coffee at the White House.  Its the smoothest, best coffee ever produced.  Low acid, smooth in the mouth, and it has the most intoxicating aroma.  Worth the price.
+
+product/productId: B0007ZLRUU
+review/userId: A22GUSJY1URK32
+review/profileName: nanccasares
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1306281600
+review/summary: Disappointed
+review/text: I was very disappointed with the quality of the coffee. I have purchased Blue Mountain coffee before from other places and it was always great. But this was totally unsatisfactory. It had a mildewed flavor to it like it had been stored for a long time in a warehouse that was damp or moldy. For the money I paid for it I was quite displeased and will NEVER buy from them again.
+
+product/productId: B0007ZLRUU
+review/userId: A3HHWS1VTP5VSD
+review/profileName: B. Ellis "phone totty"
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1274832000
+review/summary: jablum dont buy it
+review/text: My son had this Jablum roasted and ground coffee brought back from Jamaica and paid a lot for it.  I have drunk blue mountain for years when I can but this was shocking.  It tasted stale when you opened the bag and even worse when you drank it.  It was definitely off.  He bought 5 bags and every one we tried was the same.  I would never buy another.  We had bought another brand in a tin from Jamaica which was fine.  I think this is a con.  You get all the rubbish about it being tested in Jamaica, well I dont know who tests it but definitely not someone who likes good coffee.  I just dont understand how people say its any good. Maybe having paid so much for it its like the emperor's new clothes.
+
+product/productId: B0007ZLRUU
+review/userId: ACC3V47CSZC43
+review/profileName: Joy Schmitz "toddnjoy"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1231891200
+review/summary: The best we has yet
+review/text: We heard about this coffee before leaving for Jamaica so we pick up some and have fell in love with it.  The best we have had yet smooth without that bitter after taste so many other coffee have.
+
+product/productId: B0007ZLRUU
+review/userId: A2SRT262WG2WH6
+review/profileName: Dave
+review/helpfulness: 3/4
+review/score: 3.0
+review/time: 1177027200
+review/summary: Excellent coffee, not all that exotic, though...
+review/text: I love my coffee, and because of that, I have tried lots and lots of varieties although I began as a simple Folgers fantatic.  Jamaican Mountain Blue Coffee has been touted to be the best of the best world coffees out there by such highly esteemed sources as the Food Network and the kitchens of the White House.<br /><br />I found the low acidity of the coffee very refreshing, but the darkness of this roast has not allowed a lot of subtleness of the flavor to come out.  To me, this tastes like Folgers at its best, but nothing more than that.  Great for everyday drinking, because it is smooth and rich and leaves little acid "bite."  But still, after having tried Kona coffee with its myriad of subtle flavors, I found Blue Mountain kinda boring.<br /><br />I guess I disagree with experts, but hey, my coffee is important and taste is everything!  If you like exotic flavors, this isn't it.  But it you would like to have consistently smooth, rich, honest coffee, this is the one.
+
+product/productId: B0007ZLRUU
+review/userId: A3LNX5S52F2IG4
+review/profileName: Herta Glatz
+review/helpfulness: 12/18
+review/score: 3.0
+review/time: 1127865600
+review/summary: Blue Mountain Experience
+review/text: I am a coffee lover of many years and as such am always interested in finding good coffees.  This was my first time to try blue mountain, and purchasing it with a gift certificate allowed me to be a bit more extravagant than I otherwise would have been.<br /><br />While the coffee is good, I don't find it to be superior to other coffees I have ordered which are considerably less expensive.
+
+product/productId: B0007ZLRUU
+review/userId: A38KK0SZYEH5UD
+review/profileName: Busy Executive
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301529600
+review/summary: My favorite beans
+review/text: These are some of my favorite beans. I've purchased this brand a number of times in various roasts, and I've never been disappointed. Whether you use them in your French press, your espresso maker or your conventional coffee pot, some of the best tasting coffee you can imaging comes out of this bag.<br /><br />Definitely recommended.
+
+product/productId: B0007ZLRUU
+review/userId: A1ZKUYOQCYGZFF
+review/profileName: M. Duell
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1281312000
+review/summary: Love Blue Mountain Coffee, Hate JABLUM
+review/text: While in Jamaica, my wife and I drank Blue Mountain Coffer every day and loved it.  We even went on a bike tour of the Blue Mountains, and purchased some coffee.  It came in a plain clear plastic bag, and we could see the darkness of the roast.  We enjoyed that coffee.<br /><br />In Ocho Rios, we bought some bags of JABLUM.  You can't see the darkness of the roast, and all you can smell is the burlap bag.  When we opened it up, it was a very light roast, not much fragrance, and once brewed, the coffee tasted a lot like dirt.  We were very disappointed.
+
+product/productId: B0007ZLRUU
+review/userId: A2VTGXADJ74J3D
+review/profileName: Kevin
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1174867200
+review/summary: Good coffee, but not great
+review/text: I bought this coffee in Jamaica ($15 for 1 lb bag).  While I liked and enjoyed it, I prefer several coffees from my local shops at about the same price.  I think that it may have been worth the $15/lb, but no more.  Certainly not at these prices.
+
+product/productId: B0007ZLRUU
+review/userId: A3R71YQ3WXBZTO
+review/profileName: W. Taylor
+review/helpfulness: 2/4
+review/score: 1.0
+review/time: 1230249600
+review/summary: Only 2 of 3 16 oz. received in shipment
+review/text: I recently ordered the 16 oz., 3 Pack.  When my FedEx order arrived on December 26, 2008 there were only two 16 oz. bags contained in my order.  I would like my missing 16 oz. bag to be sent to me or at least be refunded 1/3 of my $105 charged price.
+
+product/productId: B0007ZLRUU
+review/userId: A2E84QMV8QK4R4
+review/profileName: D. Hall
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1238803200
+review/summary: Don't believe the hype...
+review/text: Went to Jamaica last May and brought about 6 pounds of this and the Waldenford's Blue Mtn back with me. About half what you are paying here, but still not worth the money. It is good coffee. No question. But don't believe all the hype. I am a casual coffee drinker and someone that takes coffee more seriously might get more benefit from this coffee. To me, not the case. I order my Peet's Arabian Mocha Java online for about $14/lb and it is still my favorite coffee.
+
+product/productId: B0007ZLRUU
+review/userId: A331TXDQ3NFCHG
+review/profileName: David J. Sussman "Dark Sky"
+review/helpfulness: 3/7
+review/score: 1.0
+review/time: 1249948800
+review/summary: P.U.
+review/text: I don't get all the hype over this coffee. Not much of a head on it. Doesn't taste that great. What's the big whoop?
+
+product/productId: B000GA32XG
+review/userId: A1SHLMPWR0FOVT
+review/profileName: J. Karon "jennifergwl"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1174089600
+review/summary: the greatest stuff ever!
+review/text: I love this stuff!  It tastes like ice cream, just not cold.  Seriously, if you haven't tried this, you have to!!
+
+product/productId: B001HTIES8
+review/userId: A38KP1POQ191WT
+review/profileName: Judy Schinske "Veronica"
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1280361600
+review/summary: Garden of Eatin` Red Hot Blues
+review/text: Not what I expected at all, there is no punch to these chips like I thought there would be. Not spicy or hot but rather just disgusting. The flavor is off and the after taste is god awful. I ate one corn chip and decided I did not care for them so I ate something else to get the flavor of poop out of my mouth, because that is what these chips taste like, and I can still taste these poo chips.  I will not be buying these chips again at all.  There blue corn chips are really great, but the so called red powder they put on these is just so off.
+
+product/productId: B001HTIES8
+review/userId: A18OUQEK7IZ2F2
+review/profileName: Jason Kirkfield "The Pride and Sorrow of chil...
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264982400
+review/summary: Those Red Hot Blues are one bad mutha...
+review/text: You watch your mouth!<br /><br />Simply, one of the best things I have ever eaten. Healthy organic blue corn chips with taste that packs a punch.<br /><br />I won't waste your time reading about these when you can be enjoying them instead. Just note that some bags seem to have a more generous allotment of cayenne pepper (the special ingredient that distinguishes Red Hot Blues from the standard Blue Chips). Or perhaps certain bags settle more during shipment, in which case the bulk of the cayenne dust is to be found at the bottom of the bag. You can always scoop up the loose seasoning and sprinkle on the chips (or any food! LOL) as you see fit.<br /><br />P.S. Amazon needs to figure out how to share reviews across products. In this case, for example, there are at least four different listings for Red Hot Blues. The only difference is the size of the bag or the quantity of bags that are bundled together. I am posting this review in those as well because other than one listing, none of the others have any reviews. Hopefully this will be of some help to customers, plus point them toward the main listing (the one with Free Shipping and sold directly from Amazon!).<br /><br /><a href="http://www.amazon.com/gp/product/B000EQYW0E">Garden of Eatin'� Tortilla Chips Red Hot Blues, 9-Ounce Bags (Pack of 12)</a>
+
+product/productId: B001FSISXC
+review/userId: A26N3GLFUNS4NL
+review/profileName: Mr. William A. Dispoto "gorilla-bill"
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1269993600
+review/summary: ...a bit pricey, but SO versatile...!!
+review/text: Kinda expensive for cheese product...would expect ssomething closer to the $3 per pound price I can get in the supermarket, but it is so versatile...can be used in any recipe that calls for cheese.<br /><br />My favorite use is to SUPER-CHEESE both store brand and even Kraft boxed mac-n-cheese...sometimes that little packet of cheese powder just doesn't give me the cheese-i-ness I want...so after mixing the mac-n-cheese according to the directions on the box, I put a few slices of Velveeta on top, nuke it for a few minutes, mix it in, and VIOLA..!! Try it, you'll never want to eat mac-n-cheese out of the box again.
+
+product/productId: B001FSISXC
+review/userId: A1NZYGNZ5SVZI5
+review/profileName: Bruce W. Bennett
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1288656000
+review/summary: THE American comfort cheese
+review/text: Great chesse to make snacks with. Melts so easy and has a wonderful flavor. This is the ultimate in american comfort cheese.
+
+product/productId: B001FSISXC
+review/userId: A4VMQ6ZTSXSSL
+review/profileName: kiwanissandy "Go Bucks!"
+review/helpfulness: 5/9
+review/score: 2.0
+review/time: 1279756800
+review/summary: Way over priced for the size
+review/text: I spent close to $4.00 for each cube which turned out to be the 16oz size.  I know it says that upon further review but I was assuming it was the 3lb size because that size is $3.99 at the grocery.  And I just paid the same thing for the 1lb size?!  Shame on you Amazon.  Or better yet shame on me.  The expiration date is fast approaching too so I'm not even sure I'll use these up in a month.  I was very disappointed in the price as well as the expiration date.  I had the same issue with some sunflower seeds I bought recently, they expired before baseball season even started.  However, I did get what I paid for...it's just my mistake for not realizing the size was not what I thought I was getting.  Who would pay that for the 1lb size?
+
+product/productId: B003EML8PM
+review/userId: A1J52MX2YDWSU0
+review/profileName: these pretzels r making me thirsty
+review/helpfulness: 2/3
+review/score: 2.0
+review/time: 1224115200
+review/summary: Thought it was a good idea
+review/text: I am giving these two stars because they did taste sorta good at first.  But like the other reviewer said they do smell funny and they left a bad taste in my mouth.  And they are very salty.  I only cooked them for 90 seconds, the bag was still expanding when I stopped it but they smelled burnt when they were done (they said to cook until it stopped expanding but thank goodness I didn't do that).  Nice idea but I don't think I will buy these again.
+
+product/productId: B003EML8PM
+review/userId: A3VERUHFCZ5S51
+review/profileName: kathy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351123200
+review/summary: Ms. Mac's Review
+review/text: I loved this item.  I wish I could find it in the stores.  Walmart carried this item in Louisiana for some time. When I travel to Louisiana I sometime can find this item at Fred's.  I have not found this item in the Houston area.  Easy to prepare and a great conversation piece.  No one here has seen this before.  I purchased this item at Amazon.
+
+product/productId: B003EML8PM
+review/userId: AE96EGVPMGV1T
+review/profileName: Tammy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Lowery Microwave pork rinds
+review/text: Our Wal-Mart use to sell these pork rinds, but they haven't for probably 5 years. I hunted all over the place for them, until I finally found them. My husband loves them, he works so hard, I figured I'd get him something he loves.
+
+product/productId: B003EML8PM
+review/userId: A11VIBM32L7BHG
+review/profileName: Robert Parker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350950400
+review/summary: Great crunch, best taste even better when hot.
+review/text: I love both orignal and spicy flavored, great any time during day or night.  Fresh and warm a treat that is usually only available cold and with two flavor choices.
+
+product/productId: B003EML8PM
+review/userId: A1NL5IFNOQM4S5
+review/profileName: mgoff
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350432000
+review/summary: very good
+review/text: Very good if you want to be on a Paleolithic diet. Very tasty when warm. Cooks great.  A great fast snack.
+
+product/productId: B003EML8PM
+review/userId: A3P00SA2Y5OYZW
+review/profileName: Ally "picky shopper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349740800
+review/summary: tasty & good value
+review/text: When I read the reviews, I noticed someone mentioned the box was light.  It is, but it holds a lot - these pork rinds are compact; they expand when cooked, so there's a lot more in the box than it looks like.<br /><br />As snacks go, these are high in protein and low in carbohydrate.<br /><br />I think this is a really good value, and these are very flavorful - I especially enjoy them with bean dip.<br /><br />The only thing that I'd change is, I'd like a lightly salted version; I don't always want that much salt.
+
+product/productId: B003EML8PM
+review/userId: AEMAM7W0R155A
+review/profileName: Z. Kurz
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: let's be serious
+review/text: eating my first bag as i type.  awesome.  some puffed up to be light and puffy; others didn't puff up as much and are much more crunchy.  Which i like!  might be the best pork rinds i've had (outside of central america street carts)
+
+product/productId: B003EML8PM
+review/userId: A3TN9R4YOAQQ89
+review/profileName: Avoir
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349308800
+review/summary: Great
+review/text: Great product, I never cook this in the microwave because sometimes it takes longer and not all microwaves are the same.  I've read people reviews and they said there were small brown pieces that were hard, that means they were not cooked long enough.  The best way to cook these are to use a medium size pan, pour the pack into the pan and shake it around and bake them in the oven @ 400 degrees for 4-6 minutes, keep a close eye on them because they burn easy.  But it is worth it to cook it in the oven, very hot and fresh and no uncooked curls.  They will appear to be brown at first but they "poof" up in the oven once they're heated.  I would say do not microwave these in a bag, use a oven safe plate, that way you can actually see them puff up, older/cheap microwaves can take 4-6 minutes to cook.
+
+product/productId: B003EML8PM
+review/userId: A1VH8NQ5ZD8Y2A
+review/profileName: Mary H.
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1349136000
+review/summary: so good
+review/text: These are so much better than the pre-packaged ones.  Not too many calories.  I cook mine for 2 min and 20 seconds in a very small microwave.
+
+product/productId: B003EML8PM
+review/userId: A6MLMO94JV3RQ
+review/profileName: bogie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348444800
+review/summary: Lowrey's Pork Rinds
+review/text: I live in the Kansas City Area and could not find them anywhere.  I had bought them before at the Commissory in Leavenworth but couldn't find them here.  Someone recommended checking Amazon.com and I was thrilled to find them there.  They are easy to fix and if you like pork rinds, you won't go back to the bagged ones.
+
+product/productId: B003EML8PM
+review/userId: A2K5ETAUO9DZUV
+review/profileName: wambam
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1348444800
+review/summary: Tasty
+review/text: Tasty, spicy, and good. Became quite the conversation piece at work. No one have ever  heard of microwave pork rinds before. They tasted them and love them. Only draw back depending on type of microwave as to how they will cook.
+
+product/productId: B003EML8PM
+review/userId: A1SGCKAJBOJ3PJ
+review/profileName: ladybug42
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1347494400
+review/summary: microwave pork skins
+review/text: I was so excited to receive the product I immediately cooked a bag.  What a disappointment!!  The taste of the pork skins was there but it was buried by some spice that I didn't enjoy.. I couldn't finish the bag!  My dog wouldn't eat them either ans she eats everything - including brusell sprouts!  I have had microwave pork skins that were good but I don't remember the brand so I'll just have to do without
+
+product/productId: B003EML8PM
+review/userId: A3OBGS44YUBJ2U
+review/profileName: WIBREEZE
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1347494400
+review/summary: Lowrey's Microwavable Pork Rinds
+review/text: These were a great quick snack that did not raise my blood sugar level and you could sprinkle a variety of seasons to your taste preferences.  However, I chose to use the auto ship. Because of new health issues, I am unable to eat these anymore.  However because Lowrey's does not give you any option or information on how to cancel an order, I am forced to waste money buying these and having to toss them.  I hate to write this here, but maybe if they read it, they'll add the contact information.  Thank you.
+
+product/productId: B003EML8PM
+review/userId: A3VYIPLGEUGLCW
+review/profileName: D. Rens "Dan"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1347408000
+review/summary: Nom
+review/text: I absolutely love these. A friend had found them in a random store down in Oklahoma a long time ago, and I thought they were awesome. But as I don't live in Oklahoma, and can't find these anywhere in the MN area, Amazon having them is awesome. They're low carb and taste pretty great.
+
+product/productId: B003EML8PM
+review/userId: A24C4NFIDI5KKS
+review/profileName: Chico
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1346716800
+review/summary: Micro Pork Rinds
+review/text: We own a small neighborhood bar and the patrons enjoy having the novelty of fresh, hot pork rinds served to them with their beverages.
+
+product/productId: B003EML8PM
+review/userId: A33NMF6AOO2GVX
+review/profileName: R. W.
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1345939200
+review/summary: Pretty good, but I am not sure that I will buy again
+review/text: It was quite a commitment for me to buy this quantity of pork rinds from Amazon but I decided that I would "give it a go" since I like the pork rinds that are sold in grocery stores and I figured that these could only be better since they'd be fresher when microwaved.  They taste great and I think that they have the perfect amout of spice.  HOWEVER, two things....the smell is "funky" when they come out of the microwave.  Regardless of the taste, I can't seem to get used to the smell.  Secondly, when it comes to popcorn, I have to pop popcorn less than the directions on the package in my microwave or it will burn.  I found it to be the opposite with these pork rinds.  I had to cook the port rinds LONGER than the directions say on the package, otherwise they wouldn't be popped nicely and were a bit chewy.  So if you find that you cook these and they don't seem crispy enough, cook them in your microwave longer than the directions say to do so.
+
+product/productId: B003EML8PM
+review/userId: AS5RIZFJA7YEZ
+review/profileName: Beach Girl
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345766400
+review/summary: Best EVER!
+review/text: These are the best pork rinds around, near and far.  They are warm and just melt in your mouth.  This is a dangerous addiction, you've been warned!  ;)
+
+product/productId: B003EML8PM
+review/userId: A1P9EWKQ1SJ6D9
+review/profileName: Brad Bruce
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345420800
+review/summary: spicey pork rinds
+review/text: Awesome!!  I love 'em cracklin out of the microwave!!! This snack is also not nearly as bad for you as, chips or other snack!!
+
+product/productId: B003EML8PM
+review/userId: A2QMNYDC8IAYD2
+review/profileName: Arthur F. Shunk
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Great item
+review/text: I was never a big fan of pork rinds. But since I started doing Atkins, I was buying them sometimes to fill that desire for a crunchy, salty snack.  I ended up only buying the hot variety since it seemed to cover the taste of the rinds better than plain or bbq.  After reading the reviews here, decided to give these a try.<br /><br />I had never had anything other than the bagged variety of pork rinds.  As others have mentioned here, these are far superior to anything you will find in a bag.  Way, way better than any bagged variety I have sampled.  Plus the make this great popping, crackling noise when you take them out for a minute or so that I greatly enjoy for some reason.<br /><br />Do mind the cooking instructions.  If you overcook, they will end up tasting closer to the bagged taste you are trying to avoid.  Still better than bagged though.  I tried different times in my microwave but found it best to watch and take them out as soon as the bag stops rising.  You will sometimes have some that did not expand(you can pop these back in the microwave to try and revive them) but it is not worth burning some of them to try to ensure all have expanded.
+
+product/productId: B003EML8PM
+review/userId: A28G0RFT2IXHBY
+review/profileName: sling f "."
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344902400
+review/summary: YUM!!
+review/text: Why am I just learning about these?  They are delicious.<br /><br />Enough in each individual bag for 2 people to share.<br /><br />Low cal, low fat, but not low flavor.  Highly recommend.<br /><br />Will be back for more.
+
+product/productId: B003EML8PM
+review/userId: A3L8YQKD03KUZ2
+review/profileName: Glenn C. Johnson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344816000
+review/summary: Simply Awesome !!!!!!
+review/text: I am on a low carb diet, so pork rinds were a natural. I bought the Hot and Spicy.  These are great, they taste better than any others that I have tried from the stores.  The package says less than a carb per serving (there are 3.5 servings per 1.75 Ounce package).  I would like to know how many carbs for a full package, because I often eat more than one serving.  Give these a try, they are awesome.
+
+product/productId: B003EML8PM
+review/userId: A2YV6E02HAZE70
+review/profileName: EmpressK
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: Pork rind magic!
+review/text: These are magical. Put them in the microwave and they literally pop into a fresh hot crackly bag of pork rinds. They're a little on the salty side but no more so than most of the pork rinds you buy in the store. Each bag fills up a large cereal bowl. Good for a little snack when you need it and you don't want popcorn.
+
+product/productId: B003EML8PM
+review/userId: ARYSDAZNRXN6G
+review/profileName: A. Crafton
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1343692800
+review/summary: A for freshness, but d*mn are they salty.......
+review/text: I was so excited to see these! And the price is good.<br /><br />First, it takes a little learning to figure out how to cook these. The instructions are not much help. "Stop cooking when the bag stops expanding"....they might as well say, perform a Vulcan mind meld with the pork rinds to know when they are done. I found that the bag's expansion--or not---has little to do with whether they are done. I have a 1200 watt microwave and 1:30 was perfect. 1:00 and they were not cooked, 2:00 and I had charcoal bits.<br />I had to sacrifice a couple of precious bags to figure this out.<br /><br />Taste and texture? Well they are infinitely better than bags of pork rinds from the store. The texture is very good. The taste? I am in no way shy of salty food, love me some salt! But these were borderline too much for me. I did sprinkle some cinnamon and Ideal on them to make them sweet and I still had a hard time eating them. My husband liked them this way though.<br /><br />If they could back off the strong salty flavor, I would buy these again. As it is, I'm going to use them to make low-carb nachos. I won't be reordering them though. Love the crispy texture! But can't choke down the overpowering saltiness.
+
+product/productId: B003EML8PM
+review/userId: AL86D2RNG1LGF
+review/profileName: Mikey Bird
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1343088000
+review/summary: Love the bacon curl
+review/text: I love these bacon curls or pork rinds as some call them. I was so happy to find them again. Easy, delicious and high protein snack --- I eat them every night watchng tv. Never had a bag that didn't perform well........LOVE THEM!!!!!
+
+product/productId: B003EML8PM
+review/userId: A3E350XYEFPZ44
+review/profileName: Jonathan
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1342310400
+review/summary: Good if its all you can get.
+review/text: taste is not like other pork rinds.  but does not taste bad.  when you microwave them, the bag only pops up about half way.  when its done popping and you eat them immediately, they are pretty hot and seem to melt in your mouth.  needing much water and a brushing to get the rinds and the taste out of your mouth afterwards.  I think the idea is pretty good, but the product did not turn out how they expected in my opinion.
+
+product/productId: B003EML8PM
+review/userId: A2SW1HY8XWGQQ6
+review/profileName: Gracie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341964800
+review/summary: Delicious!
+review/text: My husband loves pork rinds...a little too much!!  The perfect fathers day gift was a case of Lowerys pork rinds!
+
+product/productId: B003EML8PM
+review/userId: A295QA0ZC28T1K
+review/profileName: Lil Pip
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341532800
+review/summary: Best snack ever
+review/text: Outstanding snack, super fast and lives up to the review I saw on the food network.  Just make sure you shake the pkg really good before microwaving.  All in all SUPER!
+
+product/productId: B003EML8PM
+review/userId: A35GZC8FLLHOZ6
+review/profileName: G. Schmelzer "varied interests"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1341014400
+review/summary: love those rinds
+review/text: Can't find this product anywhere except on-line. I guess no-one enjoys them as we do. Same kind of hicks that don't like boiled peanuts I guess. Anyway, product is wonderful and was shipped promptly. Hope to continue buying from this seller.
+
+product/productId: B003EML8PM
+review/userId: A2AEBH3O9EKFV4
+review/profileName: David Dosch "IB Dave"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338681600
+review/summary: Tasty, easy no carb snack.
+review/text: Really easy to prepare and very yummy. With my microwave I put them in for 1:40 and they turn out perfect. Warm, crunchy and tasty. And without the carbs, they don't impact your blood sugar which is a real boon for us diabetics.
+
+product/productId: B003EML8PM
+review/userId: A2KZS5Z28SN012
+review/profileName: J. Stack "&#34;We sleep safely in our beds be...
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1338249600
+review/summary: Not quite what I expected
+review/text: These are an okay snack. They don't puff up like the Pork Rinds I have had in the past. The quantity of rinds in the bag seems lacking. There is a unusual taste as if some type of seasoning added that I can't figure out. If you want a salty snack with no carbs they are okay, I, however, will not buy them again. I'll stick with the regular puffed up ones or cracklings. These don't fit in either category quite the way I expected.
+
+product/productId: B003EML8PM
+review/userId: A3IHHZPTMJCSHV
+review/profileName: Kevin - Hermiston, Oregon
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338163200
+review/summary: Pork rinds
+review/text: I saw these in a bar in wyoming somewhere.  My buddy loves the hotnspicy pork rinds and when I saw these microwavable ones I had them sent as a joke, however he said they were great and tasted just like the ones in a bag.  Nice
+
+product/productId: B003EML8PM
+review/userId: A2GSNTI4CQ4MSX
+review/profileName: M. A. Love "malove"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: I love them!
+review/text: I've had pork rinds in the bag and all, and they were usually stale with no flavor.  Since these are cooked fresh, they come out nice and warm.  They have a slight bacon flavor and aren't greasy like potato chips are.  A little salty, but very good.  I can't find them in any of the stores here either, so I'm happy Amazon has t hem.
+
+product/productId: B003EML8PM
+review/userId: A1OIOH453XQ7K6
+review/profileName: Mystercee
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338076800
+review/summary: Love At First Bite....
+review/text: <a href="http://www.amazon.com/gp/product/B000UP8QQ0">Lowrey's Bacon Curls Microwave Pork Rinds, Hot & Spicy, 1.75-Ounce Packages (Pack of 18)</a> In order to appreciate the taste of a "fresh" Pork Rind, head to a Meat Market that has them.  There is no comparison to that "Rind", with the "traditional" store version.(Bagged)  Lowrey's Microwave Pork Rinds came along and created the perfect answer and a new experience for true Pork Rind Fans!! Usually, each bag will create 11 to 15 Large pieces, and some smaller bites.  The best way to eat them is immediately after removing them from the Microwave, when they are Hot and Chewy. (Cook Times Vary: 2:15 min./sec. for me) Airtight package when it arrives, and is not too spicy for those Non-Chili eaters.  They were sold in stores up until 2 years ago, and may still, but Amazon is the only place I know that has them when you want them.  Every bag is seal wrapped and can be stored like popcorn, so no need to keep the box! If anything, the novelty of this product will break the ice of any party or gathering.  Enjoy.
+
+product/productId: B003EML8PM
+review/userId: AWAB7PKBO3BBT
+review/profileName: H. Lee "Amazon junkie"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337731200
+review/summary: Snap crackle and pop of pork rinds
+review/text: Few things are as enjoyable in life as freshly popped pork rinds.  Modern technology has enabled us to produce the epitome of snack foods in a hot, fresh version.  I will be relegated no more to the listless depths of popped corn.  Pork rinds are the ultimate man chips. Very similar to microwaved popcorn, you just shake the bag and put em in your microwave for about 2 min and voila, hot fresh pork rinds.  When you pop them you have to get accustomed to the fact that they don't "pop" like popcorn - they just crackle a bit.  So it is a bit hard to tell when they are done and usually through trial and error you will get the perfect time depending upon the type of microwave oven you use.  Mine is 900W and takes just under 2 min. A couple of pieces will get burnt, or as I affectionately refer to as char. The bag will inflate slightly.  When they are done, you open it up and you are greeted with an aroma that is bacon heaven.  Put one in your mouth right away and it will stick to your tongue like a live octopus.  They are a bit salty so they make the perfect accompaniment to a nice cold beer.  I didn't find them too spicy, just enough.  If you want to be creative, you can throw em in a bowl right after they are done popping and throw some salsa verde or any other kind of salsa you have.  You will be greeted with a chorus of wonderful snaps like getting sizzling rice soup at a Chinese restaurant.  Throw on some shredded cheese and the result is "man nachos".  My wife thinks that it is utterly disgusting, even though that hasn't stopped her from eating them.  Trust me, they are delicious, but don't let em sit too long or they get soggy.
+
+product/productId: B003EML8PM
+review/userId: A1NTXIAS5VD1ZI
+review/profileName: marschin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337644800
+review/summary: sizzling good!
+review/text: My husband loves these so much he never wants to run out. I've always thought pork rinds are disgusting, but when he 'pops' a bag in the microwave the smell and the sizzling and the warmth and the crunch ... I have to admit they are really good!
+
+product/productId: B003EML8PM
+review/userId: AJV2QY96IVPVM
+review/profileName: SuperFids
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337558400
+review/summary: Practical and delicious. However, has preservatives!
+review/text: These chicharrones are delicious, and the packaging is very convenient.  Just like microwave popcorn, the pork rinds come in a bag with cellophane around it.  You shake the bag to distribute the pork rinds, pop it in the microwave, and set the cooking time.<br /><br />The optimal time for my microwave is one minute 45 seconds, but the time will likely differ from one microwave to another.<br /><br />The only reason I'm not giving this product five starts is due to the MSG listed as an ingredient.  While I don't react badly to MSG it still makes me a little nervous.<br /><br />If you're on a low-carb diet this is a great choice for snacking or even meal replacement.
+
+product/productId: B003EML8PM
+review/userId: A5NCBB4129H4E
+review/profileName: cardiobob
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337472000
+review/summary: bacon curls
+review/text: Lowrey's Bacon Curls Microwave Pork Rinds, Hot & Spicy,are the best thing since microwave pop corn. especially for diabetics(0 carbs)pop one in the microwave and vanquish that craving for a crunchy snack.
+
+product/productId: B003EML8PM
+review/userId: A26ERUB0VE1IO4
+review/profileName: carol
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337472000
+review/summary: great
+review/text: These r great, only problem is easy to burn. Needs close attention while cooking. Follow the directions!! I only needed to cook these for one minute in my microwave.
+
+product/productId: B003EML8PM
+review/userId: A208AHWXVRQ0LG
+review/profileName: LaurieBSmith "LaurieBSmith"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1337040000
+review/summary: Pleased and Satisfied!
+review/text: I am doing the Atkins program for weight loss, and I was missing crunchy, crispy things. Celery just doesn't get it. Our local stores don't regularly carry pork rinds, so I was feeling a little bit left out.<br /><br />But, the Lowry's brand is one I am familiar with and so, I was pretty confident I would like them. They don't pop like popcorn; in fact, they don't make much noise at all when they are cooking. I've found that one minute forty eight seconds seems to be the best time to get the most edible rinds. BUT....one can also reheat the unpopped rinds and a lot of them will then puff up.<br /><br />Enjoy...they are worth it.
+
+product/productId: B003EML8PM
+review/userId: A5NWTJKA90U3B
+review/profileName: K. Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336608000
+review/summary: Love these
+review/text: I was sceptical at first but after I tried the first bag, I was hooked.  Very easy to prepare.  I microwave these for a minute and a half and they come out perfect.  Nice and salty.  Fresher than the ones you get in bags at the store.  The hardest part is waiting for them to cool.
+
+product/productId: B003EML8PM
+review/userId: AQ793FLSEWQAR
+review/profileName: David
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336262400
+review/summary: The chips are down
+review/text: The microwave Pork Rinds are a new product to me, but they are awesome!! buying a carton of them<br /><br />was a good deal and they have far less fat and carbs than chips
+
+product/productId: B003EML8PM
+review/userId: AXSQJUCS5NP0W
+review/profileName: Susan M. Burke "lilly"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335830400
+review/summary: Crunchy
+review/text: Love the taste! Has a good flavor and very crunchy! Different then your normal pork rinds! Yummy!<br /> I would  definately buy again! Great buy also!
+
+product/productId: B003EML8PM
+review/userId: A23NWDV9UVDRA6
+review/profileName: E. Cady
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335657600
+review/summary: Wonderful for that low carb crunch!
+review/text: Wonderful! Two mins in the microwave and I have a crispy, hot snack to have with salsa and Gucamole. Great for low carbers or those who want to avoid chips. Less than 4 carbs for the entire bag. The non flavored ones are also very good, but I like the spicy kick to these.
+
+product/productId: B003EML8PM
+review/userId: AFCLSSR41J11B
+review/profileName: abel   lopez
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1334793600
+review/summary: microwave pork rinds
+review/text: A terrible product we follow the intructions and did not get the the pork rinds.  We only got pieces of pork skin
+
+product/productId: B003EML8PM
+review/userId: A1JFW99VBY3FG0
+review/profileName: Kimberly D. Scantland "Kimmy"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334793600
+review/summary: Great for low carb life style
+review/text: I finally tried these noodles and cooked them in chicken broth and added to my stir fry.  Everyone liked them and commented that it was like eating ramen noodles.  Once I got past the fishy smell rinsing them I was happy with the result.
+
+product/productId: B003EML8PM
+review/userId: A210VNYAFP8ISN
+review/profileName: LowT
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334620800
+review/summary: Great, low-fat substitute for french fries
+review/text: I discovered you can use ketchup or any other condiment - bbq sauce, mayo, mustard, etc. for a great alternative to french fries.
+
+product/productId: B003EML8PM
+review/userId: A2OV90G6ENO156
+review/profileName: S. K. Jones
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1334361600
+review/summary: Warm fresh crunchiness
+review/text: The convience of micorwave popcorn, 1 carb and lightly salty, well seasoned goodness.  If you never have eaten fresh pork skins, these are a must.
+
+product/productId: B003EML8PM
+review/userId: A2RUR0VA9QOIHS
+review/profileName: Muttimus Maximus "Mutt"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333929600
+review/summary: Mmmmmm,good!
+review/text: these are so addicting that i have suscribed to them.  cannot get these at the grocery stores around here.  it's a hit for movies, parties, or just even a snack.  give it a try!
+
+product/productId: B003EML8PM
+review/userId: A11LIEOD0VKUDQ
+review/profileName: H. Yeldell
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1333670400
+review/summary: Very Good Taste but TOO MUCH SALT
+review/text: I did not find the smell to be anything but inviting.  Warm pork rinds is a concept that was new to me.  I found the taste to be very good.  I had no problems with the cook time and the bag did not collapse on the product.  My only complaint is that there was just too much salt.
+
+product/productId: B003EML8PM
+review/userId: A2KZNUJKINCV33
+review/profileName: Lynn P Smith
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1333584000
+review/summary: Totally wonderful if not overcooked
+review/text: Unlike microwave popcorn, you cannot hear the pork skins cooking, so only by trial and error and the wattage of your microwave will you know how long to cook these. Cooked to the proper timing, they will be fluffy, melt in you mouth. 15 seconds too long you will have a stinky unedible product.<br />It is something that you must try. I cooked mine for 1 minute 45 seconds and they were not all done. I do not know the wattage of my microwave.<br />So try them for your self. As I said, they are different than popcorn, but have the same results if left too long in the micowave, stinky.

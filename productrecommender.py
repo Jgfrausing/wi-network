@@ -54,13 +54,12 @@ tfidf_matrix = tfidf_vectorizer.fit_transform([user] + productList)
 recommendedProducts = cosine_similarity(tfidf_matrix[0], tfidf_matrix)[0][1:]
 
 orderedRecommendations = sorted(list(zip(productDict.keys(), recommendedProducts)), key = lambda tup : tup[1], reverse = True)
-print(orderedRecommendations)
-'''
+#print(orderedRecommendations)
+
 print(f"MAX SCORE: {max(recommendedProducts)}")
 print(f"MIN SCORE: {min(recommendedProducts)}")
 
 
-for review in kurtRobairsReviews:
-  print(review)
-  print(zipped[review])
-'''
+#for review in kurtRobairsReviews:
+ # print(review)
+  #print(zipped[review])
