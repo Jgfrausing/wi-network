@@ -84,8 +84,6 @@ def run_user_kNN():
   print(f" * MSE for kNN user_based: {calc_mse_user_kNN(ratings, 0, range(3))}")
   print(f" * Prediction for item5: {user_kNN_predict(ratings, 0, 4)}")
 
-#run_user_kNN()
-
 def to_sparse_array(m):
   (rows, cols) = np.shape(m)
 
@@ -105,6 +103,7 @@ def funk_SVD_predict(m, k, lr, iterations):
   A = np.random.rand(rows, k)
   B = np.random.rand(k, cols)
   
+  # Here we could remove obvious structure: avg
   
   # :: [(row, col, val)]
   sparse_array = to_sparse_array(m)
@@ -115,13 +114,20 @@ def funk_SVD_predict(m, k, lr, iterations):
 
     (row, col, actual_val) = sparse_array[random.randint(0, sparse_array_len - 1)]
     predicted_val = np.dot(A[row], B[:,col])
+
     error = actual_val - predicted_val
 
     A[row] = A[row] + (lr * error * B[:,col])
     B[:,col] = B[:,col] + (lr * error * A[row])
 
-  return (A, B, np.matmul(A, B))
 
+  # We would re-add the obvious structure again
+  R = np.matmul(A, B)
+
+  return (A, B, R)
+
+
+#run_user_kNN()
 
 (A, B, result) = funk_SVD_predict(ratings, 2, 0.01, 10000)
 

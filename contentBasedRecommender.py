@@ -47,6 +47,11 @@ kurt_robairs_collected_reviews = user_reviews_dict[kurt_robair_id]
 tfidf_vectorizer = TfidfVectorizer()
 tfidf_matrix = tfidf_vectorizer.fit_transform([kurt_robairs_collected_reviews] + product_reviews)
 
+# id    | term_1 | term_2 | ...
+# kurt  | 1.5    | 2.3    | ... <- tf_idf values
+# prod1 | 0.7    | 1.3    | ...
+# prod2 | 0.3    | 2.1    | ...
+
 # The cosine similarity between Kurt Robairs combined reviews and all other products' combined reviews
 product_scores = cosine_similarity(tfidf_matrix[0], tfidf_matrix)[0][1:]
 
@@ -63,4 +68,45 @@ for kvp in recommended_products[:10]:
 
 # Kurt's Recommendations: 7 * 5.0, 3 * 3.0
 # He only reviews items he like. So we can use his reviews as a basis for finding other items!
-# If this wasn't the case, we would need to take other factors into account. For example the scores, useful property etc.
+
+# We should filtered his 4+ reviews, and only used those.
+
+
+
+
+
+def pseudo_code():
+    # MOVIIES (id, title, length in minutes, genres, budget $, date)
+    lotr = (0, "Lord of the Rings: The King Returns", 200, ["fantasy", "drama"], 94000000, "17/12-2003")
+    nights = (1, "All these Sleeping Nights", 100, ["documentary", "drama"], 100000, "04/11-2016")
+
+    kasper1 = (_, "Batman Rings Killing Softly", 92, ["crime", "action", "romance"], 40000000, "06/05-1994")
+    kasper2 = (_, "Money Wolf Never Sleeps", 101, ["mocumentary", "documentary"], 1000000, "17/01-2019")
+
+    dist_title = "Cosine similarity"
+    dist_length = "mse"
+    dist_genres = "Jaccard"
+    dist_budget = "mse"
+    dist_date = "mse"
+
+    dist_weight = [0.3, 0.2, 0.1, 0.2, 0.3]
+    def dist(a, b):
+        # distances between a and b of course.
+        distances = [dist_title(a, b), dist_length(a, b), dist_genres(a, b), dist_budget(a, b), dist_date(a, b)]
+        weighted_dist = np.dot(distances, dist_weight)
+        return weighted_dist
+
+
+    def get_recommendations(u, k):
+        centroids = cluster_movies_for(u)
+        movie_count = len(movies)
+        predictions = np.ones(movie_count) * float('inf')
+        for c in centroids:
+            for i in range(movie_count):
+                d = dist(c, movies[i])
+                if d < predictions[i]:
+                    predictions[i] = d
+      return sorted_on_snd(zip(range(movie_count), predictions))[:k]
+      
+      
+
