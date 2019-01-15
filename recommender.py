@@ -1,6 +1,8 @@
 import numpy as np
 import statistics as stats
 import math
+from scipy.sparse import csc_matrix
+import random
 
 ratings = [ [5, 3, 4, 4, 0]
           , [3, 1, 2, 3, 3]
@@ -82,4 +84,45 @@ def run_user_kNN():
   print(f" * MSE for kNN user_based: {calc_mse_user_kNN(ratings, 0, range(3))}")
   print(f" * Prediction for item5: {user_kNN_predict(ratings, 0, 4)}")
 
-run_user_kNN()
+#run_user_kNN()
+
+def to_sparse_array(m):
+  (rows, cols) = np.shape(m)
+
+  sparse_array = []
+
+  for r in range(rows):
+    for c in range(cols):
+      val = m[r][c]
+      if val != 0:
+        sparse_array.append((r, c, val))
+  return sparse_array
+
+
+# m = matrix     k = latent factors    lr = learning rate
+def funk_SVD_predict(m, k, lr, iterations):
+  (rows, cols) = np.shape(m)
+  A = np.random.rand(rows, k)
+  B = np.random.rand(k, cols)
+  
+  
+  # :: [(row, col, val)]
+  sparse_array = to_sparse_array(m)
+  sparse_array_len = len(sparse_array)
+
+  for i in range(iterations):
+    print(f"Iteration: {i}")
+
+    (row, col, actual_val) = sparse_array[random.randint(0, sparse_array_len - 1)]
+    predicted_val = np.dot(A[row], B[:,col])
+    error = actual_val - predicted_val
+
+    A[row] = A[row] + (lr * error * B[:,col])
+    B[:,col] = B[:,col] + (lr * error * A[row])
+
+  return (A, B, np.matmul(A, B))
+
+
+(A, B, result) = funk_SVD_predict(ratings, 2, 0.01, 10000)
+
+print(result)
