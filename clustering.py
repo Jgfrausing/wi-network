@@ -106,5 +106,15 @@ def run():
 
 
 
-#runSmallExample()
-run()
+runSmallExample()
+# The small graph
+#   1 \      / 5
+#   |  3 - 4   |
+#   2 /      \ 6
+# 
+# sSEV: [ 0.46470513  0.46470513  0.26095647 -0.26095647 -0.46470513 -0.46470513]
+# Splits: [1 1 1 0 0 0]
+
+
+#run()
+
