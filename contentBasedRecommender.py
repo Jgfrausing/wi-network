@@ -106,7 +106,7 @@ def pseudo_code():
                 d = dist(c, movies[i])
                 if d < predictions[i]:
                     predictions[i] = d
-      return sorted_on_snd(zip(range(movie_count), predictions))[:k]
+        return sorted_on_snd(zip(range(movie_count), predictions))[:k]
       
       
 
