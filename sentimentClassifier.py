@@ -86,7 +86,7 @@ def createIndexes(lst):
   return index
 
 
-def word_probabilities(naive_class_probabilities, distinct_words, word_class_matrix, test_review, classIndex, wordIndex):
+def classify(naive_class_probabilities, distinct_words, word_class_matrix, test_review, classIndex, wordIndex):
   test_review_ = fix_words(test_review)
   
   p_per_class = np.ones((len(classIndex)))

@@ -84,6 +84,11 @@ def run_user_kNN():
   print(f" * MSE for kNN user_based: {calc_mse_user_kNN(ratings, 0, range(3))}")
   print(f" * Prediction for item5: {user_kNN_predict(ratings, 0, 4)}")
 
+
+
+#########################################################
+
+
 def to_sparse_array(m):
   (rows, cols) = np.shape(m)
 
